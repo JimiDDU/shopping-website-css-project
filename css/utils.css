@@ -1,0 +1,26 @@
+.all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-vert{
+    display: flex;
+    align-items: center;
+}
+
+.center-hori{
+    display: flex;
+    justify-content: center;
+}
+
+
+.align-left{
+    display: flex;
+    justify-content: start;
+}
+
+.align-right{
+    display: flex;
+    justify-content: end;
+}
